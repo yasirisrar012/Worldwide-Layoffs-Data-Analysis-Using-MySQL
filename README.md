@@ -1,4 +1,4 @@
-# Worldwide Layoffs Data Analysis Using MySQL
+# Worldwide Layoffs Data Cleaning and Exploratory Data Analysis Using MySQL
 ## Project Overview:
 Welcome to my analysis of Worldwide layoffs, focusing on workforce reduction across different industries due to global economic crisis. This project was created out of a desire to navigate and understand the worst hit industries and stages affected due to economic crisis more effectively. The data sourced from Kaggle which provides a foundation for my analysis, containing detailed information on companies, industries, locations, total laid off, percentage laid off, date and fund raised. Through a series of SQL queries, I explore key questions such as the layoffs by industry, company, location, countries and the date of layoffs such as when did the first and last layoff happened.
 
